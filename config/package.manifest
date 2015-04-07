@@ -1,0 +1,28 @@
+{
+  "propertyEditors": [
+    {
+      "name": "License",
+      "alias": "My.License",
+      "editor": {
+        "valueType": "JSON",
+        "view": "~/App_Plugins/License/views/license.html"
+      },
+      "prevalues": {
+        "fields": [
+          {
+            "description": "This is an example prevalue",
+            "key": "examplePreValue",
+            "label": "Example PreValue",
+            "view": "textstring"
+          }
+        ]
+      }
+    }
+  ],
+  "css": [
+    "~/App_Plugins/License/css/license.css"
+  ],
+  "javascript": [
+    "~/App_Plugins/License/js/license.js"
+  ]
+}

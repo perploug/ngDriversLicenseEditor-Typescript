@@ -1,0 +1,36 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular-cookies.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "angularjs/angular-route.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "angularjs/angular-sanitize.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "angularjs/angular-animate.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    },
+    "jqueryui/jqueryui.d.ts": {
+      "commit": "02a93db66ab297f542db1ec9f91de9935f7ff567"
+    }
+  }
+}
